@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e10e64e-ead0-4220-bc55-8c237a5cd351" name="Changes" comment="Added Main.generateRandomSortedArray">
+    <list default="true" id="9e10e64e-ead0-4220-bc55-8c237a5cd351" name="Changes" comment="Added BinarySearch.find()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/christian/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/christian/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/christian/binary_search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/christian/binary_search/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664819550180</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added BinarySearch.find()">
+      <created>1664824727117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664824727117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +93,7 @@
     <MESSAGE value="Established Gradle Project" />
     <MESSAGE value="Established Framework for Main, Created BinarySearch.java" />
     <MESSAGE value="Added Main.generateRandomSortedArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Main.generateRandomSortedArray" />
+    <MESSAGE value="Added BinarySearch.find()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added BinarySearch.find()" />
   </component>
 </project>
