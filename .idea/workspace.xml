@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e10e64e-ead0-4220-bc55-8c237a5cd351" name="Changes" comment="Added BinarySearch.find()">
+    <list default="true" id="9e10e64e-ead0-4220-bc55-8c237a5cd351" name="Changes" comment="Created Linear Comparison">
+      <change afterPath="$PROJECT_DIR$/src/test/java/BinarySearchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/christian/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/christian/Main.java" afterDir="false" />
     </list>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664824727117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created Linear Comparison">
+      <created>1664826324877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664826324877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +102,7 @@
     <MESSAGE value="Established Framework for Main, Created BinarySearch.java" />
     <MESSAGE value="Added Main.generateRandomSortedArray" />
     <MESSAGE value="Added BinarySearch.find()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added BinarySearch.find()" />
+    <MESSAGE value="Created Linear Comparison" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Linear Comparison" />
   </component>
 </project>

@@ -31,7 +31,7 @@ public class Main {
             System.out.printf("Total milliseconds taken for binary search: %sms.%n%n", diffMilli1);
             System.out.printf("%s is located at index %s.%n", target, res2);
             System.out.printf("Total milliseconds taken for linear search: %sms.%n%n", diffMilli2);
-            Thread.sleep(7500);
+            Thread.sleep(5000);
         }
     }
 
