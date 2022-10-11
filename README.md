@@ -1,12 +1,15 @@
 # Binary Search
 
-This is an implementation of a Binary Search algorithm in Java 17, this saves time by converting linear searches [ o(N) ] to a binary serach [ o( log N ) ]. This project is built using Gradle. JUnit 5 is a dependancy. Test cases are in BinarySearchTest.java
+This is an implementation of a Binary Search algorithm in Java 17, this saves time by converting linear searches [ o(N) ] to a binary search [ o( log N ) ]. This project is built using Gradle. JUnit 5 is a dependancy. Test cases are in BinarySearchTest.java
 
 
 ## Authors
 
 - [@csweat03](https://www.github.com/csweat03)
 
+## Demo
+
+- [Repl](https://replit.com/@csweat03/binary-search?v=1)
 
 ## Screenshots
 
